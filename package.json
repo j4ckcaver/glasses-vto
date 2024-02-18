@@ -7,7 +7,7 @@
     "@mediapipe/hands": "^0.3.1620248595",
     "@react-three/drei": "^8.8.0",
     "@react-three/fiber": "^7.0.26",
-    "@threekit/lignin": "^0.8.0",
+    "caniuse-lite": "^1.0.30001588",
     "lodash-es": "4.17.21",
     "react": "17.0.2",
     "react-dom": "17.0.2",
